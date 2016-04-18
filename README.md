@@ -1,1 +1,3 @@
-# industry_reports
+# Industry reports
+
+Besides conference and journal articles from graduate school, these two reports best demonstrate my technical writing ability.  The aerial observer project was collaborative, where my role was the optical modeling (and writing about it).
